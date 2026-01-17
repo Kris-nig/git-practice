@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
- printf("Goodbye, World");
- return 0;
+ printf("Goodbye,Heaven");
+ return 3;
 
 }
